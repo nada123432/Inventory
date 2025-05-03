@@ -13,3 +13,4 @@ C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\
 C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\refint\Inventory.Repository.dll
 C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.pdb
 C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\ref\Inventory.Repository.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.sourcelink.json

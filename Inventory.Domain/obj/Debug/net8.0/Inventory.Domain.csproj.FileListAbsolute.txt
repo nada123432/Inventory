@@ -12,3 +12,4 @@ C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\
 C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.pdb
 C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.genruntimeconfig.cache
 C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\ref\Inventory.Domain.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.sourcelink.json
