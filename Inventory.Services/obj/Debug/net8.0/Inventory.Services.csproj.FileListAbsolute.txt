@@ -1,0 +1,17 @@
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\bin\Debug\net8.0\Inventory.Services.deps.json
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\bin\Debug\net8.0\Inventory.Services.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\bin\Debug\net8.0\Inventory.Services.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\bin\Debug\net8.0\Inventory.Domain.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\bin\Debug\net8.0\Inventory.Repository.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\bin\Debug\net8.0\Inventory.Repository.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\bin\Debug\net8.0\Inventory.Domain.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\Inventory.Services.csproj.AssemblyReference.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\Inventory.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\Inventory.Services.AssemblyInfoInputs.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\Inventory.Services.AssemblyInfo.cs
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\Inventory.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\Inventor.F7C2CEA0.Up2Date
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\Inventory.Services.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\refint\Inventory.Services.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\Inventory.Services.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Services\obj\Debug\net8.0\ref\Inventory.Services.dll

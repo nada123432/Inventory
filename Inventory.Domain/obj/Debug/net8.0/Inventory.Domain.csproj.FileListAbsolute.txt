@@ -1,0 +1,14 @@
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.deps.json
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.runtimeconfig.json
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.csproj.AssemblyReference.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.AssemblyInfoInputs.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.AssemblyInfo.cs
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\refint\Inventory.Domain.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.genruntimeconfig.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Domain\obj\Debug\net8.0\ref\Inventory.Domain.dll

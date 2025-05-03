@@ -1,0 +1,15 @@
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\bin\Debug\net8.0\Inventory.Repository.deps.json
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\bin\Debug\net8.0\Inventory.Repository.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\bin\Debug\net8.0\Inventory.Repository.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\bin\Debug\net8.0\Inventory.Domain.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\bin\Debug\net8.0\Inventory.Domain.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.csproj.AssemblyReference.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.AssemblyInfoInputs.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.AssemblyInfo.cs
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventor.001127E0.Up2Date
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\refint\Inventory.Repository.dll
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\Inventory.Repository.pdb
+C:\Users\Nada Mostafa\Documents\WebApi\InventoryManagement\Inventory.Repository\obj\Debug\net8.0\ref\Inventory.Repository.dll
